@@ -1,0 +1,4 @@
+#! /bin/bash
+
+echo "This is for a jenkins freestyle test"
+echo "p.s. please work"

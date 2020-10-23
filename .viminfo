@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1603457430,,"wq"
 :q
 |2,0,1603446851,,"q"
 :w
@@ -27,14 +29,43 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/install-script
-|4,48,1,0,1603446851,"~/install-script"
+'0  1  11  ~/text
+|4,48,1,11,1603457430,"~/text"
+'1  4  22  ~/text
+|4,49,4,22,1603457382,"~/text"
+'2  2  22  ~/text
+|4,50,2,22,1603457382,"~/text"
+'3  1  0  ~/install-script
+|4,51,1,0,1603446851,"~/install-script"
 
 # Jumplist (newest first):
+-'  1  11  ~/text
+|4,39,1,11,1603457430,"~/text"
+-'  4  22  ~/text
+|4,39,4,22,1603457407,"~/text"
+-'  2  22  ~/text
+|4,39,2,22,1603457382,"~/text"
+-'  1  0  ~/text
+|4,39,1,0,1603457336,"~/text"
+-'  1  0  ~/install-script
+|4,39,1,0,1603446851,"~/install-script"
+-'  1  0  ~/install-script
+|4,39,1,0,1603446851,"~/install-script"
+-'  1  0  ~/install-script
+|4,39,1,0,1603446851,"~/install-script"
 -'  1  0  ~/install-script
 |4,39,1,0,1603446851,"~/install-script"
 
 # History of marks within files (newest to oldest):
+
+> ~/text
+	*	1603457428	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	4	22
+	+	2	0
+	+	1	11
 
 > ~/install-script
 	*	1603446850	0
